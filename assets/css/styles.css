@@ -1,0 +1,33 @@
+body {
+  background-color: #ceaeae;
+  margin: 0;
+  padding: 20px;
+}
+
+.portfolio-card {
+  background-color: #fbfbfb;
+  display: flex;
+  padding: 20px;
+}
+
+.portfolio-links {
+  flex: 1;
+}
+
+.header {
+  text-align: center;
+}
+
+nav ul {
+  padding-inline-start: 0;
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  padding: 1rem 0;
+}
+
+main {
+  flex: 5;
+}
