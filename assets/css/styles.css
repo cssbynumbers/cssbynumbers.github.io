@@ -6,15 +6,19 @@ body {
 
 .portfolio-card {
   background-color: #fbfbfb;
+  border-radius: 6px;
+  box-shadow: 10px 10px 20px 5px #908181;
   display: flex;
   padding: 20px;
+  margin: 0 auto;
+  max-width: 75vw;
 }
 
 .portfolio-links {
   flex: 1;
 }
 
-.header {
+header {
   text-align: center;
 }
 
