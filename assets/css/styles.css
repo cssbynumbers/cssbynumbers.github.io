@@ -9,9 +9,9 @@ body {
   border-radius: 6px;
   box-shadow: 10px 10px 20px 5px #6e8a98;
   display: flex;
-  padding: 20px;
   margin: 0 auto;
   max-width: 75vw;
+  padding: 20px;
 }
 
 .portfolio-links {
@@ -37,8 +37,8 @@ header {
 }
 
 nav ul {
-  padding-inline-start: 0;
   list-style: none;
+  padding-inline-start: 0;
   text-align: center;
 }
 
